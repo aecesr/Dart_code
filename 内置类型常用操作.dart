@@ -18,5 +18,5 @@ void main(List<String> args) {
   // Dart也支持整数位操作，<< 、 >> 、&、|
   print((3 << 1) == 6);// true
   print((3 >> 1) == 1);// true
-  print((3 | 4) == 7);// true
+  print((3 | 8));// true
 }
